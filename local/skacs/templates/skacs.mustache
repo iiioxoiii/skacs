@@ -1,0 +1,205 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANT without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template local_skacs/skacs
+
+    This template renders the content of the skacs pluggin.
+
+    Classes required for JS:
+        * none
+
+        Data attributes required for JS:
+        * none
+
+        Context variables required for this template:
+        * none
+
+        Optional context variables for this template:
+        * none
+
+    Example context (json):
+    
+    {
+        "id": 1
+        "escaquer": 1
+        "user": 1
+        "estat": 1
+        "ts": 2024-01-06 11:31:51
+    }
+}}
+
+
+<link rel="stylesheet" type="text/css" href="/local/skacs/chess.css">
+
+<ul>
+    {{#dades}}
+        <li>
+            ID:{{id}}, Escaquer: {{escaquer}}, User: {{user}}, Estat: {{estat}}, TS: {{ts}}
+        </li>
+    {{/dades}}
+</ul>
+
+
+
+
+<div class="chess-board">
+        <div class="row-8">
+            <div class="a8">
+            </div>
+            <div class="b8">
+            </div>
+            <div class="c8">
+            </div>
+            <div class="d8">
+            </div>
+            <div class="e8">
+            </div>
+            <div class="f8">
+            </div>
+            <div class="g8">
+            </div>
+            <div class="h8">
+            </div>
+        </div>
+        <div class="row-7">
+            <div class="a7">
+            </div>
+            <div class="b7">
+            </div>
+            <div class="c7">
+            </div>
+            <div class="d7">
+            </div>
+            <div class="e7">
+            </div>
+            <div class="f7">
+            </div>
+            <div class="g7">
+            </div>
+           <div class="h7">
+            </div>
+        </div>
+        <div class="row-6">
+            <div class="a6">
+            </div>
+            <div class="b6">
+            </div>
+            <div class="c6">
+            </div>
+            <div class="d6">
+                <img src="images/assets/images/white_bishop.svg" title="d6"></div>
+            <div class="e6">
+            </div>
+            <div class="f6">
+            </div>
+            <div class="g6">
+            </div>
+            <div class="h6">
+            </div>
+        </div>
+        <div class="row-5">
+            <div class="a5">
+            </div>
+            <div class="b5">
+            </div>
+            <div class="c5">
+                <img src="images/assets/images/white_queen.svg" title="c5"></div>
+            <div class="d5">
+            </div>
+            <div class="e5">
+            </div>
+            <div class="f5">
+            </div>
+            <div class="g5">
+            </div>
+            <div class="h5">
+            </div>
+        </div>
+        <div class="row-4">
+            <div class="a4">
+            </div>
+            <div class="b4">
+            </div>
+            <div class="c4">
+            </div>
+            <div class="d4">
+            </div>
+            <div class="e4">
+                <img src="images/assets/images/white_bishop.svg" title="d4"></div>
+            <div class="f4">
+            </div>
+            <div class="g4">
+            </div>
+            <div class="h4">
+            </div>
+        </div>
+        <div class="row-3">
+            <div class="a3">
+            </div>
+            <div class="b3">
+            </div>
+            <div class="c3">
+            </div>
+            <div class="d3">
+            </div>
+            <div class="e3">
+            </div>
+            <div class="f3">
+            </div>
+            <div class="g3">
+            </div>
+            <div class="h3">
+            </div>
+        </div>
+        <div class="row-2">
+            <div class="a2">
+            </div>
+            <div class="b2">
+            </div>
+            <div class="c2">
+            </div>
+            <div class="d2">
+            </div>
+            <div class="e2">
+            </div>
+            <div class="f2">
+            </div>
+            <div class="g2">
+            </div>
+            <div class="h2">
+            </div>
+        </div>
+        <div class="row-1">
+            <div class="a1">
+              <img src="images/assets/images/white_bishop.svg" title="a1">
+            </div>
+            <div class="b1">
+            </div>
+            <div class="c1">
+            </div>
+            <div class="d1">
+            </div>
+            <div class="e1">
+            </div>
+            <div class="f1">
+            </div>
+            <div class="g1">
+            </div>
+            <div class="h1">
+            </div>
+        </div>
+    </div>
