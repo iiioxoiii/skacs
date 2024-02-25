@@ -11,7 +11,7 @@ La implantació descontrolada de sistemes de control associats amb dades biometr
 > dades bionètriques al sistema nou [+info](https://periscopiofiscalylegal.pwc.es/el-nuevo-criterio-de-la-agencia-sobre-el-tratamiento-de-control-de-presencia-mediante-sistemas-biometricos/).
 > Això és desprén de l'actualització de les Directrius 05/2022 del maig de 2022 sobre l'ús de reconeixement facial.
 
-El sistema **Skacs** planteja un sistema transparent adaptat a la normativativa i sense associar dades biomèdiques a la persona física.
+El sistema **Skacs** planteja un sistema transparent **totalment legal** de control horari que evita l¡associació de dades biomèdiques a la persona física.
 
 ## Parts del projecte
 El sistema consta de tres parts: 
