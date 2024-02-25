@@ -6,16 +6,27 @@ El desplegament descontrolat de sistemes de control associats a les dades biomet
 
 > Sí el conveni col·lectiu de l'empresa no ho especifica, la necessitat de fer
 > servir sistemes de control horari amb sistemes biomètrics recau en [el responsable de
-> tractament de dades](https://apdcat.gencat.cat/ca/drets_i_obligacions/responsables/obligacions/delegat-proteccio-dades/) de per què ha de justificar el canvi de sistema de
-> control horari i la necessitat d'incorporar les
-> al sistema nou [+info](https://periscopiofiscalylegal.pwc.es/el-nuevo-criterio-de-la-agencia-sobre-el-tratamiento-de-control-de-presencia-mediante-sistemas-biometricos/).
-> Això é el que és desprén de l'actualització de les Directrius 05/2022 del maig de 2022 sobre l'ús de reconeixement facial.
+> tractament de dades](https://apdcat.gencat.cat/ca/drets_i_obligacions/responsables/obligacions/delegat-proteccio-dades/).
+> Aquest figura ha de justificar el canvi de sistema de control horari antic pel nou i justificar la necessitat d'incorporar les
+> dades bionètriques al sistema nou [+info](https://periscopiofiscalylegal.pwc.es/el-nuevo-criterio-de-la-agencia-sobre-el-tratamiento-de-control-de-presencia-mediante-sistemas-biometricos/).
+> Això és desprén de l'actualització de les Directrius 05/2022 del maig de 2022 sobre l'ús de reconeixement facial.
 
-lliure adaptat a la normativativa i sense associar dades biomèdiques a la persona física.
+El sistema **Skacs** planteja un sistema transparent adaptat a la normativativa i sense associar dades biomèdiques a la persona física.
 
-## Problemes de fer servir dades biomèdiques
+## Parts del projecte
+El sistema consta de tres parts: 
 
+1) **El taulell o taulells**: Els taulells són la cònsola o còsoles on els usuaris validen l'entrada i sortida del lloc de treball.
+2) **El sistema intermediari de dades**: El sistema que rep les dades dels taulells i les envia a la BBDD.
+3) **El pluggin Skacs pel Moodle**: El pluggin que permet relacionar les dades guardades a la BBDD (administrar el sistema i visualitzar les dades als usuaris.)
 
-## Plugin local per moodle
+## Taulell o taulells
+En desenvolupament.
+
+## Sistema intermediari
+En desenvolupament
+
+## Pluggin Moodle
 Dins la carpeta **local** està la carpeta **skacs** dins la qual hi han els fitxers pel pluggin de Moodle **Skacs**. 
+
 
