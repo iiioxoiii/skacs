@@ -1,8 +1,8 @@
 # skacs
-Projecte de desenvolupament d'un sistema de control d'assistència laboral.
+Projecte de desenvolupament d'un sistema de control d'assistència laboral de codi obert i fàcil de desplegament.
 
 ## Objectiu
-El desplegament descontrolat de sistemes de control associats a les dades biometriques suposa perill en els àmbits quotidians i posa en risc les llibertats individuals i col·lectives. Des del maig de 2022, la implantació de sistemes de control horari basats en dades biomètriques han d'estar degudament justificats pels mecanimes legals establerts.
+La implantació descontrolada de sistemes de control associats amb dades biometriques suposa perill en els àmbits quotidians i posa en risc les llibertats individuals i col·lectives dels ciutadans. Des del maig de 2022, els sistemes de control horari basats en dades biomètriques han d'estar degudament justificats pels mecanimes legals establerts.
 
 > Sí el conveni col·lectiu de l'empresa no ho especifica, la necessitat de fer
 > servir sistemes de control horari amb sistemes biomètrics recau en [el responsable de
@@ -28,5 +28,7 @@ En desenvolupament
 
 ## Pluggin Moodle
 Dins la carpeta **local** està la carpeta **skacs** dins la qual hi han els fitxers pel pluggin de Moodle **Skacs**. 
+
+
 
 
