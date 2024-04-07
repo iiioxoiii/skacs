@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<horaris>
+    <horari>
+        <id>raul@xtec.cat</id>
+        <dilluns>
+            <interval>
+                <titol>Technology de la raó </titol>
+                <curs>1 GM Brodats</curs>
+                <lloc>Biblioteca</lloc>
+                <inici>8:00</inici>
+                <final>12:00</final>
+            </interval>
+        </dilluns>
+        <dimarts>
+            <interval>
+                <titol>Guàrdia</titol>
+                <lloc>Biblioteca</lloc>
+                <inici>8:00</inici>
+                <final>9:00</final>
+            </interval>
+            <interval>
+                <titol>Taller de Brodat</titol>
+                <lloc>F2</lloc>
+                <inici>9:00</inici>
+                <final>15:30</final>
+            </interval>
+        </dimarts>
+        <dimecres>
+            <interval>
+                <titol>Taller de Brodat</titol>
+                <lloc>F2a</lloc>
+                <inici>8:00</inici>
+                <final>10:00</final>
+            </interval>
+            <interval>
+                <titol>Taller de Brodat</titol>
+                <lloc>F2a</lloc>
+                <inici>10:30</inici>
+                <final>11:30</final>
+            </interval>
+            <interval>
+                <titol>FOL</titol>
+                <lloc>F1a</lloc>
+                <inici>11:30</inici>
+                <final>13:30</final>
+            </interval>
+        </dimecres>
+        <dijous>
+            <interval>
+                <titol>Esteanografia</titol>
+                <lloc>FFF</lloc>
+                <inici>15:00</inici>
+                <final>19:00</final>
+            </interval>
+            <interval>
+                <titol>Encanteris</titol>
+                <lloc>Cripta2</lloc>
+                <inici>19:30</inici>
+                <final>21:30</final>
+            </interval>
+        </dijous>
+        <divendres>
+        </divendres>
+    </horari>
+    <horari>
+        <id>tomas@xtec.cat</id>
+        <dilluns>
+            <interval>
+                <titol>Biología molecular</titol>
+                <curs>2º Bachillerato</curs>
+                <lloc>Laboratorio 1</lloc>
+                <inici>8:30</inici>
+                <final>10:30</final>
+            </interval>
+        </dilluns>
+        <dimarts>
+                <interval>
+                    <titol>Historia del arte</titol>
+                    <curs>3º ESO</curs>
+                    <lloc>Aula 203</lloc>
+                    <inici>9:00</inici>
+                    <final>11:00</final>
+                </interval>
+                <interval>
+                    <titol>Economía aplicada</titol>
+                    <curs>1º Bachillerato</curs>
+                    <lloc>Aula 105</lloc>
+                    <inici>11:00</inici>
+                    <final>12:00</final>
+                </interval>
+        </dimarts>
+        <dimecres>
+                <interval>
+                    <titol>Taller de Brodat</titol>
+                    <lloc>F2a</lloc>
+                    <inici>8:00</inici>
+                    <final>10:00</final>
+                </interval>
+                <interval>
+                    <titol>Taller de Brodat</titol>
+                    <lloc>F2a</lloc>
+                    <inici>10:30</inici>
+                    <final>11:30</final>
+                </interval>
+        </dimecres>
+        <dijous>
+            <interval>
+                <titol>Física cuántica</titol>
+                <curs>4º ESO</curs>
+                <lloc>Laboratorio 3</lloc>
+                <inici>11:30</inici>
+                <final>13:30</final>
+            </interval>
+        </dijous>
+        <divendres>
+            <interval>
+                <titol>Geometría descriptiva</titol>
+                <curs>2º Bachillerato</curs>
+                <lloc>Aula 305</lloc>
+                <inici>14:00</inici>
+                <final>16:00</final>
+            </interval>
+        </divendres>
+    </horari>
+    <horari>
+        <id>maria89@xtec.cat</id>
+        <dilluns>
+            <interval>
+                <titol>Literatura comparada</titol>
+                <curs>2º Bachillerato</curs>
+                <lloc>Aula 102</lloc>
+                <inici>8:30</inici>
+                <final>10:30</final>
+            </interval>
+        </dilluns>
+        <dimarts>
+            <interval>
+                <titol>Química orgànica</titol>
+                <curs>3º ESO</curs>
+                <lloc>Laboratorio 2</lloc>
+                <inici>9:00</inici>
+                <final>11:00</final>
+            </interval>
+            <interval>
+                <titol>Economia internacional</titol>
+                <curs>1º Bachillerato</curs>
+                <lloc>Aula 203</lloc>
+                <inici>11:00</inici>
+                <final>14:00</final>
+            </interval>
+        </dimarts>
+        <dimecres>
+            <interval>
+                <titol>Taller de Claus</titol>
+                <curs>1 Grau Superior</curs>
+                <lloc>AD1</lloc>
+                <inici>8:00</inici>
+                <final>12:00</final>
+            </interval>
+            <interval>
+                <titol>Taller de Brodat</titol>
+                <curs>4º ESO</curs>
+                <lloc>Laboratorio 4</lloc>
+                <inici>12:30</inici>
+                <final>13:30</final>
+            </interval>
+            <interval>
+                <titol>Història del cinema</titol>
+                <curs>2º Bachillerat</curs>
+                <lloc>Aula 405</lloc>
+                <inici>14:00</inici>
+                <final>16:00</final>
+            </interval>
+        </dimecres>
+        <dijous>
+            <interval>
+                <titol>Reunions</titol>
+                <lloc>FFF</lloc>
+                <inici>15:00</inici>
+                <final>19:00</final>
+            </interval>
+        </dijous>
+        <divendres>
+            <titol>Historia del cine</titol>
+            <curs>2º Bachillerato</curs>
+            <lloc>Aula 405</lloc>
+            <inici>14:00</inici>
+            <final>16:00</final>
+        </divendres>
+    </horari>
+    <horari>
+        <id>l.lozano@xtec.cat</id>
+        <dilluns>
+            <interval>
+                <titol>Literatura comparada</titol>
+                <curs>2º Bachillerato</curs>
+                <lloc>Aula 102</lloc>
+                <inici>8:30</inici>
+                <final>10:30</final>
+            </interval>
+        </dilluns>
+    </horari>
+    <horari>
+        <id>francesca@xtec.cat</id>
+
+        <dimarts>
+            <interval>
+                <titol>Química orgánica</titol>
+                <curs>3º ESO</curs>
+                <lloc>Laboratorio 2</lloc>
+                <inici>9:00</inici>
+                <final>11:00</final>
+            </interval>
+        </dimarts>
+
+    </horari>
+</horaris>

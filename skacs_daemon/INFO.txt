@@ -1,0 +1,1 @@
+# Cal determinar que el valor de Logs de perdurabilitat és el temps que els logs estaran guardats a la carperta logs
