@@ -4,7 +4,7 @@ Projecte de desenvolupament d'un sistema de control d'assistència laboral amb c
 ## Objectiu
 La implantació descontrolada de sistemes de control associats amb dades biometriques suposa perill en els àmbits quotidians i posa en risc les llibertats individuals i col·lectives dels ciutadans. Des del maig de 2022, els sistemes de control horari basats en dades biomètriques han d'estar degudament justificats pels mecanimes legals establerts.
 
-> Sí el conveni col·lectiu de l'empresa no ho especifica, la necessitat de fer
+> Si el conveni col·lectiu de l'empresa no ho especifica, la necessitat de fer
 > servir sistemes de control horari amb sistemes biomètrics recau en [el responsable de
 > tractament de dades](https://apdcat.gencat.cat/ca/drets_i_obligacions/responsables/obligacions/delegat-proteccio-dades/).
 > Aquest figura ha de justificar el canvi de sistema de control horari antic pel nou i justificar la necessitat d'incorporar les
