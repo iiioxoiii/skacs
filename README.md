@@ -1,5 +1,5 @@
 # skacs
-Projecte de desenvolupament d'un sistema de control d'assistència laboral de codi obert i fàcil de desplegament.
+Projecte de desenvolupament d'un sistema de control d'assistència laboral amb codi lliure i fàcil desplegament.
 
 ## Objectiu
 La implantació descontrolada de sistemes de control associats amb dades biometriques suposa perill en els àmbits quotidians i posa en risc les llibertats individuals i col·lectives dels ciutadans. Des del maig de 2022, els sistemes de control horari basats en dades biomètriques han d'estar degudament justificats pels mecanimes legals establerts.
